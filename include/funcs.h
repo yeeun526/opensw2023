@@ -1,4 +1,3 @@
 #include <stdio.h>
-void foo();
+void foo(int num);
 void goo();
-void doo();
