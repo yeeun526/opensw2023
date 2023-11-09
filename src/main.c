@@ -1,5 +1,5 @@
 #include "../include/funcs.h"
 int main(){
 	foo();
-return 0;
+    return 0;
 }
