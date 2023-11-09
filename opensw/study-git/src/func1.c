@@ -1,6 +1,6 @@
 #include "funcs.h"
 
-void apple(){
+void apple(int number){
     printf("apple is delicious~!");
 
     char c='a';
