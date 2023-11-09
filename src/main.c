@@ -3,5 +3,7 @@
 int main(){
 	foo(2023);
     goo();
+    yeeun();
+
     return 0;
 }
